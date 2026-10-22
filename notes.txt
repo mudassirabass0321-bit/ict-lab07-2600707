@@ -1,0 +1,5 @@
+Git is a version control system.
+A commit is a saved snapshot of the project.
+A branch lets me work without touching main.
+GitHub is a website for storing Git repositories online.
+Merging joins two branches together.
